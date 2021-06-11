@@ -1,0 +1,3 @@
+21:29:19.266 [main] INFO  com.codewithazam.beta.demo1 - Object is present.
+21:29:19.269 [main] ERROR com.codewithazam.beta.demo1 - Object isn't present.
+21:29:19.269 [main] FATAL com.codewithazam.beta.demo1 - This is fatal.

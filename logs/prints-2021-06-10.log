@@ -1,0 +1,7 @@
+21:27:05.410 [main] ERROR com.codewithazam.alpha.demo - Button is not displayed.
+21:27:05.411 [main] FATAL com.codewithazam.alpha.demo - Button is missing.
+21:28:34.278 [main] DEBUG com.codewithazam.alpha.demo - I have clicked on button.
+21:28:34.280 [main] INFO  com.codewithazam.alpha.demo - Button is displayed.
+21:28:34.280 [main] ERROR com.codewithazam.alpha.demo - Button is not displayed.
+21:28:34.280 [main] FATAL com.codewithazam.alpha.demo - Button is missing.
+21:29:19.264 [main] DEBUG com.codewithazam.beta.demo1 - I am debugging
